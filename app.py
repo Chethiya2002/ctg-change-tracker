@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-VERSION = "v1"
+VERSION = "v2"
 
 # Sample data only (demo). Replace with real figures from Assignment 1 if needed.
 CHANGES = [
